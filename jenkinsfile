@@ -1,0 +1,12 @@
+class Example { 
+   static void main(String[] args) { 
+      //Example of a int datatype 
+      int x = 5; 
+		
+      //Example of a long datatype 
+      long y = 100L; 
+		
+      println(x); 
+      println(y); 
+   } 
+}
